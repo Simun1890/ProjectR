@@ -1,0 +1,7 @@
+xidel https://hrportfolio.hr/prosirena-tecajnica#svi-fondovi --extract '//tr / string-join(td, ",")' --output-format xml-wrapped > podaci.xml
+
+https://edition.cnn.com/markets/fear-and-greed
+
+xidel https://hrportfolio.hr/prosirena-tecajnica#svi-fondovi --extract '//tr / string-join(td, ",")' --output-format xml-wrapped > podaci_11.1.xml
+
+xidel https://hrportfolio.hr/fond/allianz-equity-175 --extract '//tr / string-join(td, ",")' --output-format xml-wrapped > podaci_11.1.xml

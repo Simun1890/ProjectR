@@ -1,0 +1,15 @@
+<tecajn_response_all_currencies_v3_2024-01-24>
+  <tecajevi broj_tecajnice="16" datum_primjene="2024-01-24" drzava="Australija" drzava_iso="AUS" kupovni_tecaj="1,6518" prodajni_tecaj="1,6468" sifra_valute="036" srednji_tecaj="1,6493" valuta="AUD" />
+  <tecajevi broj_tecajnice="16" datum_primjene="2024-01-24" drzava="Kanada" drzava_iso="CAN" kupovni_tecaj="1,4670" prodajni_tecaj="1,4626" sifra_valute="124" srednji_tecaj="1,4648" valuta="CAD" />
+  <tecajevi broj_tecajnice="16" datum_primjene="2024-01-24" drzava="Češka" drzava_iso="CZE" kupovni_tecaj="24,861" prodajni_tecaj="24,787" sifra_valute="203" srednji_tecaj="24,824" valuta="CZK" />
+  <tecajevi broj_tecajnice="16" datum_primjene="2024-01-24" drzava="Danska" drzava_iso="DNK" kupovni_tecaj="7,4686" prodajni_tecaj="7,4462" sifra_valute="208" srednji_tecaj="7,4574" valuta="DKK" />
+  <tecajevi broj_tecajnice="16" datum_primjene="2024-01-24" drzava="Mađarska" drzava_iso="HUN" kupovni_tecaj="385,73" prodajni_tecaj="384,57" sifra_valute="348" srednji_tecaj="385,15" valuta="HUF" />
+  <tecajevi broj_tecajnice="16" datum_primjene="2024-01-24" drzava="Japan" drzava_iso="JPN" kupovni_tecaj="161,12" prodajni_tecaj="160,64" sifra_valute="392" srednji_tecaj="160,88" valuta="JPY" />
+  <tecajevi broj_tecajnice="16" datum_primjene="2024-01-24" drzava="Norveška" drzava_iso="NOR" kupovni_tecaj="11,4469" prodajni_tecaj="11,4127" sifra_valute="578" srednji_tecaj="11,4298" valuta="NOK" />
+  <tecajevi broj_tecajnice="16" datum_primjene="2024-01-24" drzava="Švedska" drzava_iso="SWE" kupovni_tecaj="11,3640" prodajni_tecaj="11,3300" sifra_valute="752" srednji_tecaj="11,3470" valuta="SEK" />
+  <tecajevi broj_tecajnice="16" datum_primjene="2024-01-24" drzava="Švicarska" drzava_iso="CHE" kupovni_tecaj="0,9460" prodajni_tecaj="0,9432" sifra_valute="756" srednji_tecaj="0,9446" valuta="CHF" />
+  <tecajevi broj_tecajnice="16" datum_primjene="2024-01-24" drzava="Velika Britanija" drzava_iso="GBR" kupovni_tecaj="0,85621" prodajni_tecaj="0,85365" sifra_valute="826" srednji_tecaj="0,85493" valuta="GBP" />
+  <tecajevi broj_tecajnice="16" datum_primjene="2024-01-24" drzava="SAD" drzava_iso="USA" kupovni_tecaj="1,0888" prodajni_tecaj="1,0856" sifra_valute="840" srednji_tecaj="1,0872" valuta="USD" />
+  <tecajevi broj_tecajnice="16" datum_primjene="2024-01-24" drzava="Bosna i Hercegovina" drzava_iso="BIH" kupovni_tecaj="1,95876" prodajni_tecaj="1,95290" sifra_valute="977" srednji_tecaj="1,95583" valuta="BAM" />
+  <tecajevi broj_tecajnice="16" datum_primjene="2024-01-24" drzava="Poljska" drzava_iso="POL" kupovni_tecaj="4,3896" prodajni_tecaj="4,3764" sifra_valute="985" srednji_tecaj="4,3830" valuta="PLN" />
+</tecajn_response_all_currencies_v3_2024-01-24>
